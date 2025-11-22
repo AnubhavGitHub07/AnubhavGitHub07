@@ -1,16 +1,100 @@
-## Hi there 👋
+<!-- ⚡ Ultra-Premium & Sexy GitHub Profile for Anubhav -->
 
-<!--
-**AnubhavGitHub07/AnubhavGitHub07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+```
+██╗    ██╗███████╗██╗     ██████╗ ██████╗███╗   ███╗███████╗
+██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
+██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  
+██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  
+╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗
+ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **Anubhav — Full Stack Developer | GSoC Aspirant | Open Source Enthusiast**
+
+💻 Crafting experiences • 🚀 Building scalable systems • 🌐 Levelling up everyday
+
+</div>
+
+---
+
+<div align="center">
+  <img alt="Coding" width="420" style="border-radius: 14px; box-shadow: 0 0 20px rgba(0,255,255,0.4);" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+  <br/><br/>
+  <b><i>"Turning caffeine into clean code & ideas into reality."</i></b>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🚀 Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,cpp,c" />
+
+### 🧩 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,express,mongodb,mysql,vercel,docker" />
+
+<br/>
+✨ *A perfect blend of frontend polish + backend power.*
+
+</div>
+
+---
+
+## 🔥 Featured Developer Stats
+
+<div align="center" style="margin-top: 10px;">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnubhavGitHub07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavGitHub07&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/> <img src="https://streak-stats.demolab.com?user=AnubhavGitHub07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img style="border-radius:12px;" src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavGitHub07&theme=react-dark&hide_border=true&area=true&area_color=00e5ff&line=00e5ff&point=ffffff" />
+</div>
+
+---
+
+## 🎨 Aesthetic Dev Panel
+
+<div align="center">
+
+```
+  ⚡ Passion: Building meaningful digital experiences
+  🎯 Goal: Become a top-tier full-stack engineer
+  🚀 Vision: Create products that make life easier
+  💙 Motto: “Better code. Better life. Better impact.”
+```
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/AnubhavGitHub07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" /></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br/><br/>
+🔥 *Always open to collaborations, ideas & impactful projects.*
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+Visiting+❤️&fontSize=28&animation=twinkling" />
+</div>
