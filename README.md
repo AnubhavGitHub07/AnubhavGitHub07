@@ -11,6 +11,9 @@
  ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
 ```
 
+
+
+
 ### 🚀 **Anubhav — Full Stack Developer | GSoC Aspirant | Open Source Enthusiast**
 
 💻 Crafting experiences • 🚀 Building scalable systems • 🌐 Levelling up everyday
@@ -48,22 +51,30 @@
 
 ## 🔥 Featured Developer Stats
 
-<div align="center" style="margin-top: 10px;">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnubhavGitHub07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavGitHub07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnubhavGitHub07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavGitHub07&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img width="60%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
-<br/><br/> <img src="https://streak-stats.demolab.com?user=AnubhavGitHub07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<p align="center">
+  <img height="200" src="https://streak-stats.demolab.com?user=AnubhavGitHub07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
 
-</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-<img style="border-radius:12px;" src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavGitHub07&theme=react-dark&hide_border=true&area=true&area_color=00e5ff&line=00e5ff&point=ffffff" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavGitHub07&theme=react-dark&hide_border=false&area=true&area_color=00e5ff&line=00e5ff&point=ffffff" />
+</p>
+
+
 
 ---
 
@@ -86,12 +97,19 @@
 
 <div align="center">
 
-<a href="https://github.com/AnubhavGitHub07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" /></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AnubhavGitHub07">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:prince1dwivedi00@gmail.com" style="margin-left:8px;">
+  <img src="https://img.shields.io/badge/Email-Anubhav Dwivedi-DD0031?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/><br/>
 🔥 *Always open to collaborations, ideas & impactful projects.*
 
 </div>
+
 
 ---
 
