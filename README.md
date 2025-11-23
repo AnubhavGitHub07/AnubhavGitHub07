@@ -1,7 +1,7 @@
 <!-- ⚡ Ultra-Premium & Sexy GitHub Profile for Anubhav -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<br>
+
 <!-- Heading -->
 <h1 align="center">
   <b>Hi there, I'm <a href="https://github.com/AnubhavGitHub07">Anubhav Dwivedi</a></b>
@@ -11,6 +11,8 @@
 </h1>
 
 <br>
+
+
 
 <!-- Typing SVG (Centered Perfectly) -->
 <div align="center">
@@ -24,7 +26,7 @@
 ---
 
 <div align="center">
-  <img alt="Coding" width="420" style="border-radius: 14px; box-shadow: 0 0 20px rgba(0,255,255,0.4);" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+  <img alt="Coding" width="400" style="border-radius: 14px; box-shadow: 0 0 20px rgba(0,255,255,0.4);" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
   <br/><br/>
   <b><i>"Turning caffeine into clean code & ideas into reality."</i></b>
 </div>
