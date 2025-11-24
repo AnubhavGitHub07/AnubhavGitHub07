@@ -55,22 +55,19 @@
 ---
 
 ## 🔥 Featured Developer Stats
+<br>
 <p align="center">
-  <img height="170" 
+  <img height="180" 
        src="https://github-readme-stats.vercel.app/api?username=AnubhavGitHub07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
   &nbsp;&nbsp;&nbsp;
-  <img height="170" 
+  <img height="180" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavGitHub07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
 
-<p align="center">
-  <img height="200" 
-       src="https://streak-stats.demolab.com?user=AnubhavGitHub07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
 
-<br><br>
+
 
 ---
 
