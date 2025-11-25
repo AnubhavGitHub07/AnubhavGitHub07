@@ -34,44 +34,68 @@
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center">
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### 🚀 Languages & Frameworks  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,cpp,c" />
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>🚀 Languages & Frameworks</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,cpp,c" />
+    </td>
+  </tr>
 
-<br>
+  <tr><td><br></td></tr> <!-- spacing row -->
 
-### 🧩 Tools & Technologies  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,express,mongodb,mysql,vercel,docker" />
-
-<br>
-✨ <i>A perfect blend of frontend polish + backend power.</i>
-
-</div>
-
-<br><br>
-
----
-
-## 🔥 Featured Developer Stats
-<br>
-<p align="center">
-  <img height="180" 
-       src="https://github-readme-stats.vercel.app/api?username=AnubhavGitHub07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="180" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavGitHub07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
+  <tr>
+    <td align="center">
+      <h3>🧩 Tools & Technologies</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,express,mongodb,mysql,vercel,docker" />
+    </td>
+  </tr>
 
 
+</table>
 
+ <p align="center"> <i>✨ A perfect blend of frontend polish + backend power.</i> </p>
+
+<b>
 
 ---
 
-## 📈 Contribution Graph
+
+
+ <h2 align = "center" > 🔥 Featured Developer Stats </h2>
+<br>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        height="180"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavGitHub07&layout=compact&theme=tokyonight&hide_border=true"
+      />
+    </td>
+    <td align="center">
+      <img 
+        height="180"
+        src="https://github-contributor-stats.vercel.app/api?username=AnubhavGitHub07&limit=3&theme=dark&combine_all_yearly_contributions=true"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
+
+<br>
+
+
+
+
+---
+
+
+
+<h2 align = "center"> 📈 Contribution Graph </h2>
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavGitHub07&theme=react-dark&hide_border=false&area=true&area_color=00e5ff&line=00e5ff&point=ffffff" 
@@ -82,7 +106,7 @@
 
 ---
 
-## 🏆 Achievements
+<h2 align = "center"> 🏆 Achievements </h2
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=AnubhavGitHub07&theme=dracula&no-frame=true&no-bg=true&margin-w=10" 
