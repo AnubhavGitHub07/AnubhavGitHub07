@@ -20,7 +20,7 @@
 
 <br><br>
 
----
+
 
 <!-- Coding GIF -->
 <div align="center">
@@ -32,7 +32,6 @@
 
 <br><br>
 
----
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -58,9 +57,9 @@
 
  <p align="center"> <i>✨ A perfect blend of frontend polish + backend power.</i> </p>
 
-<b>
+<br>
 
----
+
 
 
 
@@ -69,11 +68,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img 
-        height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavGitHub07&layout=compact&theme=tokyonight&hide_border=true"
-      />
-    </td>
+      
+  ![](https://github-readme-stats.vercel.app/api?username=AnubhavGitHub07&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnubhavGitHub07&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavGitHub07theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+      
+  </td>
     <td align="center">
       <img 
         height="180"
@@ -91,11 +92,12 @@
 
 
 
----
+
 
 
 
 <h2 align = "center"> 📈 Contribution Graph </h2>
+
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavGitHub07&theme=react-dark&hide_border=false&area=true&area_color=00e5ff&line=00e5ff&point=ffffff" 
@@ -104,15 +106,4 @@
 
 <br><br>
 
----
 
-<h2 align = "center"> 🏆 Achievements </h2
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=AnubhavGitHub07&theme=dracula&no-frame=true&no-bg=true&margin-w=10" 
-  >
-</p>
-
-<br>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
