@@ -66,19 +66,17 @@
  <h2 align = "center" > 🔥 Featured Developer Stats </h2>
 <br>
 <table align="center">
-  <!-- <tr>
+  <tr>
     <td align="center">
 
       
-![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnubhavGitHub07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnubhavGitHub07&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavGitHub07&theme=dark&hide_border=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=AnubhavGitHub07\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_color=0A0209&border_radius=8)
 
 
 
       
-  </td> -->
+  </td> 
     <td align="center">
       <img 
         height="180"
