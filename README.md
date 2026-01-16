@@ -63,28 +63,12 @@
 
 
 
- <h2 align = "center" > 🔥 Featured Developer Stats </h2>
-<br>
-<table align="center">
-  <tr>
-    <td align="center">
 
-      
-
-![](https://github-readme-stats.vercel.app/api?username=AnubhavGitHub07\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_color=0A0209&border_radius=8)
 
 
 
       
-  </td> 
-    <td align="center">
-      <img 
-        height="180"
-        src="https://github-contributor-stats.vercel.app/api?username=AnubhavGitHub07&limit=3&theme=dark&combine_all_yearly_contributions=true"
-      />
-    </td>
-  </tr>
-</table>
+ 
 
 
 
