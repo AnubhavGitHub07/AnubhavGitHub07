@@ -35,7 +35,7 @@ const anubhav = {
 - �️ I don't just code — I **architect solutions**
 - � Every project is built with **production-grade standards**
 - 🤝 Passionate about **open source** and community
-- 🎯 **GSoC 2025** is not just a goal, it's a mission
+- 🎯 **GSoC** is not just a goal, it's a mission
 - ⚡ I believe in **learning by building**
 
 <br/>
