@@ -2,46 +2,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Anubhav%20Dwivedi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=55"/>
 
 <!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<p align="center">
-  <a href="https://github.com/AnubhavGitHub07">
-    <img src="https://img.shields.io/github/followers/AnubhavGitHub07?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-  &nbsp;•&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AnubhavGitHub07&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/AnubhavGitHub07?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Check%20Them%20Out!-blue?style=flat&logo=github" alt="Repos"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Quick Intro Box -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🎯 Quick Snapshot</h3>
-        <p><b>🇮🇳 Based in:</b> India</p>
-        <p><b>💼 Role:</b> Full Stack Developer</p>
-        <p><b>🎓 Focus:</b> MERN Stack & System Design</p>
-        <p><b>🚀 Goal:</b> GSoC 2025</p>
-        <p><b>☕ Fuel:</b> Coffee & Curiosity</p>
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 ```javascript
@@ -215,14 +175,6 @@ const anubhav = {
 
 <div align="center">
 
-### 💡 Quote I Live By
-
-> *"The only way to do great work is to love what you do."*
-> 
-> **— Steve Jobs**
-
-<br/>
-
 ### 🐍 Watch My Contributions Get Eaten!
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
@@ -239,9 +191,6 @@ If you find my work interesting, consider giving a ⭐ to my repos!
 
 *Happy Coding!* 🚀
 
-<br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
 
