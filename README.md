@@ -138,21 +138,9 @@ const anubhav = {
 
 
 
-<div align="center">
 
-```
- 🚀 THE JOURNEY TO GREATNESS 🚀
 
- "The best time to start was yesterday.
-    The next best time is NOW." ⚡
-```
 
-</div>
-
-<br/>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect!
 
