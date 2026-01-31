@@ -38,7 +38,6 @@ const anubhav = {
 - 🎯 **GSoC** is not just a goal, it's a mission
 - ⚡ I believe in **learning by building**
 
-<br/>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
