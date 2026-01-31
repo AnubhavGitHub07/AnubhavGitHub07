@@ -13,25 +13,20 @@
 
 ```javascript
 const anubhav = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "Python", "C++", "Java"],
-    askMeAbout: ["web dev", "system design", "open source", "tech"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "SASS"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["FastAPI"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-        devOps: ["Docker", "Linux", "Git", "Vercel"],
-        exploring: ["AI/ML", "System Design", "Cloud Architecture"]
-    },
-    currentFocus: "Building production-grade MERN applications",
-    funFact: "I debug with console.log and I'm not ashamed! 😅"
+  role: "Full Stack Developer | Open Source Contributor",
+
+  stack: {
+    frontend: ["React", "Next.js", "Tailwind"],
+    backend: ["Node.js", "Express", "FastAPI"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    tools: ["Docker", "Git", "Linux", "Vercel"]
+  },
+
+  focus: "Building scalable, high-performance web applications",
+
+  learning: ["System Design", "Cloud", "AI/ML"]
 };
+
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
