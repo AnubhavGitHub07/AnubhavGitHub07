@@ -176,7 +176,7 @@ const anubhav = {
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
 
-**Thanks for stopping by!**
+
 
 If you find my work interesting, consider giving a ⭐ to my repos!
 
