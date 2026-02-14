@@ -1,39 +1,17 @@
 
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Anubhav%20Dwivedi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developing%20Scalable%20Applications%20%7C%20Open%20Source%20Contributor%20%7C%20Problem%20Solver&descSize=13&descAlignY=55"/>
-
-
-
-
-<!-- Animated Line -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-
-
-```javascript
-const anubhav = {
-  role: "Full Stack Developer | Open Source Contributor",
-
-  stack: {
-    frontend: ["React", "Next.js", "Tailwind"],
-    backend: ["Node.js", "Express", "FastAPI"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    tools: ["Docker", "Git", "Linux", "Vercel"]
-  },
-
-  focus: "Building scalable, high-performance web applications",
-
-  learning: ["System Design", "Cloud", "AI/ML"]
-};
-
-```
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🔥 What Sets Me Apart
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/main/banner.png" />
 </p>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Dynamic Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F1&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Anubhav+Dwivedi+%F0%9F%91%8B;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+%26+Impactful+Solutions;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+
+<br/>
 
 
 
