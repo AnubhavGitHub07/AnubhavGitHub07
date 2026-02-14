@@ -6,7 +6,6 @@
 
 
 
-
 <!-- Animated Line -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
@@ -32,11 +31,10 @@ const anubhav = {
 
 ### 🔥 What Sets Me Apart
 
-- �️ I don't just code — I **architect solutions**
-- � Every project is built with **production-grade standards**
-- 🤝 Passionate about **open source** and community
-- 🎯 **GSoC** is not just a goal, it's a mission
-- ⚡ I believe in **learning by building**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/main/banner.png" />
+</p>
+
 
 
 <!-- Animated Line -->
