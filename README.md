@@ -1,162 +1,118 @@
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/main/banner.png" />
-</p>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=ffffff&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Anubhav+Dwivedi+%F0%9F%91%8B;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+%26+Impactful+Solutions;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
-
-<br/>
-
-
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Tech Arsenal
-
-<details open>
-<summary><b>👨‍💻 Programming Languages</b></summary>
-<br/>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛠️ DevOps & Tools</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
-<br/>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</details>
-
-<br/>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-
-
-
-<!-- Activity Graph -->
-
-
-<br/>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
-
-
-
-
-
-
-
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect!
+<!--
+  GitHub Profile README
+  Keep this profile focused on engineering work, open-source collaboration,
+  and the projects that best represent your skills.
+-->
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnubhavGitHub07)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DwivediAnu59582)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prince1dwivedi00@gmail.com)
+# Hi, I'm Anubhav Dwivedi 👋
 
-<br/>
+### iOS Developer · Full-Stack Engineer · Open-Source Contributor
 
-### 💬 Open for:
-`Collaboration` `Open Source` `Freelance` `Full-Time Opportunities` `Coffee Chats ☕`
+I build thoughtful iOS experiences and full-stack products, with a strong interest in
+software architecture, developer communities, and solving real-world problems through technology.
+
+[![GitHub](https://img.shields.io/badge/GitHub-AnubhavGitHub07-181717?style=flat&logo=github)](https://github.com/AnubhavGitHub07)
+[![X](https://img.shields.io/badge/X-Connect-000000?style=flat&logo=x)](https://x.com/DwivediAnu59582)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prince1dwivedi00@gmail.com)
 
 </div>
 
-<br/>
+---
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## About Me
+
+- 📱 Focused on **native iOS development** with Swift and SwiftUI.
+- 🌐 Building full-stack applications with **TypeScript, React, Next.js, Node.js, and databases**.
+- 🧩 Interested in **system design, clean architecture, APIs, and reliable software**.
+- 🌱 Exploring open-source communities and preparing to contribute to **Google Summer of Code (GSoC)**.
+- 🤝 Open to meaningful open-source collaboration, code reviews, and learning from experienced developers.
+
+I value readable code, clear documentation, thoughtful engineering decisions, and building software that makes a difference.
+
+## Featured Projects
+
+### 1. TraverseVPN — iOS VPN Application
+
+Native iOS development on a VPN application, working across app experience, connectivity, subscriptions, and supporting services.
+
+- Building with **Swift, SwiftUI, and WireGuardKit**.
+- Working with **Network Extension** and VPN connection lifecycle flows.
+- Integrating Firebase authentication, Firestore, analytics, and crash reporting.
+- Implementing subscription and paywall flows with **RevenueCat**.
+- Working on attribution, deep links, and app reliability.
+
+*Project work includes hands-on iOS engineering and integration across native and backend services.*
+
+### 2. SOLACE — AI-Powered Safety & Support App
+
+An iOS application designed to support women experiencing abuse through discreet safety workflows, emotional support, and access to legal information.
+
+- Native iOS client built with **Swift and SwiftUI**.
+- Discreet SOS workflows using image steganography.
+- AI-powered companion and conversational support.
+- Legal guidance powered by retrieval-augmented generation (RAG).
+- Supporting services use technologies including **Python, FastAPI, MongoDB Atlas, and Google Gemini**.
+
+[**Explore SOLACE on GitHub →**](https://github.com/AnubhavGitHub07/SOLACE)
+
+### 3. Dravya — Ayurvedic Supply-Chain Traceability
+
+A blockchain-oriented platform exploring authenticity, transparency, and traceability in the Ayurvedic herb supply chain.
+
+- Frontend: **Next.js, React, TypeScript, and Tailwind CSS**.
+- Backend: **Node.js, Express, and TypeScript**.
+- Data layer: **PostgreSQL and Prisma**.
+- API validation and application state with **Zod, Zustand, and React Query**.
+
+The repository is currently private. Blockchain architecture and implementation details will be documented as the project evolves.
+
+---
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **iOS Development** | Swift, SwiftUI, UIKit, Xcode, WireGuardKit, Network Extension |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Python, FastAPI, REST APIs |
+| **Databases** | Firebase, Firestore, MongoDB, PostgreSQL, MySQL |
+| **AI Integration** | Google Gemini, LLM APIs, RAG, MongoDB Vector Search |
+| **Tools & Practices** | Git, GitHub, Docker, Postman, CI/CD, debugging |
+
+## Open Source & GSoC
+
+I'm interested in contributing to open-source projects where I can learn from real codebases and help maintainers ship reliable software.
+
+My approach to open source:
+
+- Understand the project architecture and contribution guidelines before proposing changes.
+- Start with well-scoped issues, reproduce problems, and communicate clearly.
+- Write maintainable code with appropriate tests and documentation.
+- Be open to feedback and iterate through code review.
+
+**Interested in:** iOS development, developer tools, full-stack systems, and projects with meaningful community impact.
+
+## Currently Exploring
+
+- Advanced SwiftUI patterns and native iOS architecture.
+- System design and scalable backend development.
+- Open-source contribution workflows and collaborative engineering.
+- Data structures and algorithms in C++.
+
+---
+
+## Let's Connect
+
+I'm always happy to connect with developers, open-source maintainers, and people building useful products.
+
+- **GitHub:** [@AnubhavGitHub07](https://github.com/AnubhavGitHub07)
+- **X:** [@DwivediAnu59582](https://x.com/DwivediAnu59582)
+- **Email:** [prince1dwivedi00@gmail.com](mailto:prince1dwivedi00@gmail.com)
 
 <div align="center">
 
-### 🐍 Watch My Contributions Get Eaten!
-
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
-
-
-
-If you find my work interesting, consider giving a ⭐ to my repos!
-
-*Happy Coding!* 🚀
-
+*Build with purpose. Learn in public. Contribute consistently.*
 
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/main/banner.png" />
-</p>
