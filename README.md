@@ -8,7 +8,7 @@
 
 # Hi, I'm Anubhav Dwivedi 👋
 
-### iOS Developer · Full-Stack Engineer · Open-Source Contributor
+### iOS Developer · Full-Stack Engineer · Open-Source Enthusiast
 
 I build thoughtful iOS experiences and full-stack products, with a strong interest in
 software architecture, developer communities, and solving real-world problems through technology.
