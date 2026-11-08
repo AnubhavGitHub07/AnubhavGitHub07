@@ -6,29 +6,37 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anubhav+Dwivedi+%F0%9F%91%8B;iOS+Developer;Full-Stack+Engineer;Open-Source+Enthusiast" alt="Typing introduction: Hi, I'm Anubhav Dwivedi — iOS Developer, Full-Stack Engineer, Open-Source Enthusiast" />
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#252526" align="left" style="padding: 10px 16px;">
+  <span>🔴 🟡 🟢</span>
+  &nbsp;&nbsp; <code>anubhav — zsh — 80×24</code>
+</td>
+</tr>
+<tr>
+<td bgcolor="#111318" align="left" style="padding: 22px 26px;">
 
-<p>
-  <code>~/anubhav</code> <code>main</code> <code>● online</code>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=16&duration=1800&pause=900&color=7EE787&background=11131800&vCenter=true&width=760&height=32&lines=anubhav%40MacBook-Pro+%7E+%25+whoami;anubhav%40MacBook-Pro+%7E+%25+cat+role.txt;anubhav%40MacBook-Pro+%7E+%25+cat+about.txt;anubhav%40MacBook-Pro+%7E+%25+open+socials" alt="Animated macOS zsh terminal prompt" />
 
-<pre align="left">
-┌──(anubhav㉿github)-[~/profile]
-└─$ whoami
-   Anubhav Dwivedi
+<pre align="left"><code><span>➜</span> whoami
+<span>Anubhav Dwivedi</span>
 
-└─$ role --list
-   iOS Developer · Full-Stack Engineer · Open-Source Enthusiast
+<span>➜</span> cat role.txt
+<span>iOS Developer · Full-Stack Engineer · Open-Source Enthusiast</span>
 
-└─$ cat about.txt
-   I build thoughtful iOS experiences and full-stack products,
-   with a strong interest in software architecture, developer
-   communities, and solving real-world problems through technology.
-</pre>
+<span>➜</span> cat about.txt
+<span>I build thoughtful iOS experiences and full-stack products,</span>
+<span>with a strong interest in software architecture, developer</span>
+<span>communities, and solving real-world problems through technology.</span>
 
-[![GitHub](https://img.shields.io/badge/GitHub-AnubhavGitHub07-161b22?style=flat-square&logo=github)](https://github.com/AnubhavGitHub07)
-[![X](https://img.shields.io/badge/X-Connect-161b22?style=flat-square&logo=x)](https://x.com/DwivediAnu59582)
-[![Email](https://img.shields.io/badge/Email-Contact-161b22?style=flat-square&logo=gmail&logoColor=white)](mailto:prince1dwivedi00@gmail.com)
+<span>➜</span> ls socials/
+<span><a href="https://github.com/AnubhavGitHub07">github</a>   <a href="https://x.com/DwivediAnu59582">x</a>   <a href="mailto:prince1dwivedi00@gmail.com">email</a></span>
+
+<span>➜</span> <span>█</span></code></pre>
+
+</td>
+</tr>
+</table>
 
 </div>
 
