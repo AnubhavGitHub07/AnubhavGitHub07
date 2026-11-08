@@ -6,16 +6,29 @@
 
 <div align="center">
 
-# Hi, I'm Anubhav Dwivedi 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anubhav+Dwivedi+%F0%9F%91%8B; iOS+Developer;Full-Stack+Engineer;Open-Source+Enthusiast" alt="Typing introduction: Hi, I'm Anubhav Dwivedi — iOS Developer, Full-Stack Engineer, Open-Source Enthusiast" />
 
-### iOS Developer · Full-Stack Engineer · Open-Source Enthusiast
+<p>
+  <code>~/anubhav</code> <code>main</code> <code>● online</code>
+</p>
 
-I build thoughtful iOS experiences and full-stack products, with a strong interest in
-software architecture, developer communities, and solving real-world problems through technology.
+<pre align="left">
+┌──(anubhav㉿github)-[~/profile]
+└─$ whoami
+   Anubhav Dwivedi
 
-[![GitHub](https://img.shields.io/badge/GitHub-AnubhavGitHub07-181717?style=flat&logo=github)](https://github.com/AnubhavGitHub07)
-[![X](https://img.shields.io/badge/X-Connect-000000?style=flat&logo=x)](https://x.com/DwivediAnu59582)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prince1dwivedi00@gmail.com)
+└─$ role --list
+   iOS Developer · Full-Stack Engineer · Open-Source Enthusiast
+
+└─$ cat about.txt
+   I build thoughtful iOS experiences and full-stack products,
+   with a strong interest in software architecture, developer
+   communities, and solving real-world problems through technology.
+</pre>
+
+[![GitHub](https://img.shields.io/badge/GitHub-AnubhavGitHub07-161b22?style=flat-square&logo=github)](https://github.com/AnubhavGitHub07)
+[![X](https://img.shields.io/badge/X-Connect-161b22?style=flat-square&logo=x)](https://x.com/DwivediAnu59582)
+[![Email](https://img.shields.io/badge/Email-Contact-161b22?style=flat-square&logo=gmail&logoColor=white)](mailto:prince1dwivedi00@gmail.com)
 
 </div>
 
