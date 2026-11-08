@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<defs>
+  <clipPath id="window"><rect x="18" y="18" width="1164" height="484" rx="15"/></clipPath>
+  <style>
+    .mono{font-family:SFMono-Regular,Consolas,'Liberation Mono',monospace;font-size:21px}
+    .prompt{fill:#7ee787}.text{fill:#e6edf3}.blue{fill:#79c0ff}.yellow{fill:#e3b341}.muted{fill:#8b949e}
+  </style>
+</defs>
+<rect width="1200" height="520" rx="20" fill="#0d1117"/>
+<g clip-path="url(#window)">
+  <rect x="18" y="18" width="1164" height="484" rx="15" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <path d="M18 33 Q18 18 33 18 H1167 Q1182 18 1182 33 V76 H18Z" fill="#21262d"/>
+  <path d="M18 76H1182" stroke="#30363d"/>
+  <circle cx="48" cy="47" r="7" fill="#ff5f57"/><circle cx="73" cy="47" r="7" fill="#febc2e"/><circle cx="98" cy="47" r="7" fill="#28c840"/>
+  <text x="600" y="53" text-anchor="middle" font-family="SFMono-Regular,Consolas,monospace" font-size="16" fill="#c9d1d9">Anubhav — zsh — 80×24</text>
+</g>
+<g class="mono">
+  <text x="52" y="125"><tspan class="prompt">anubhav@MacBook-Pro ~ % </tspan><tspan class="text">whoami</tspan><set attributeName="opacity" to="1" begin="0.4s" fill="freeze"/><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.15s" fill="freeze"/></text>
+  <text x="52" y="163" class="text" opacity="0">Anubhav Dwivedi<set attributeName="opacity" to="1" begin="1.1s" fill="freeze"/></text>
+  <text x="52" y="211"><tspan class="prompt">anubhav@MacBook-Pro ~ % </tspan><tspan class="text">role --list</tspan><set attributeName="opacity" to="1" begin="1.5s" fill="freeze"/></text>
+  <text x="52" y="249" class="blue" opacity="0">iOS Developer  ·  Full-Stack Engineer<set attributeName="opacity" to="1" begin="2.2s" fill="freeze"/></text>
+  <text x="52" y="285" class="blue" opacity="0">Open-Source Enthusiast<set attributeName="opacity" to="1" begin="2.5s" fill="freeze"/></text>
+  <text x="52" y="333"><tspan class="prompt">anubhav@MacBook-Pro ~ % </tspan><tspan class="text">cat about.txt</tspan><set attributeName="opacity" to="1" begin="3s" fill="freeze"/></text>
+  <text x="52" y="371" class="text" opacity="0">I build thoughtful iOS experiences and full-stack products,<set attributeName="opacity" to="1" begin="3.7s" fill="freeze"/></text>
+  <text x="52" y="407" class="text" opacity="0">with a strong interest in software architecture, developer</text>
+  <set attributeName="opacity" to="1" begin="4s" fill="freeze"/>
+  <text x="52" y="443" class="text" opacity="0">communities, and solving real-world problems through technology.</text>
+  <set attributeName="opacity" to="1" begin="4.3s" fill="freeze"/>
+  <text x="52" y="480" class="yellow" font-size="17" opacity="0">github.com/AnubhavGitHub07  ·  x.com/DwivediAnu59582  ·  prince1dwivedi00@gmail.com</text>
+  <set attributeName="opacity" to="1" begin="4.8s" fill="freeze"/>
+</g>
+<rect x="52" y="487" width="12" height="3" fill="#7ee787"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
