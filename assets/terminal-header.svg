@@ -1,33 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
-<defs>
-  <clipPath id="window"><rect x="18" y="18" width="1164" height="484" rx="15"/></clipPath>
-  <style>
-    .mono{font-family:SFMono-Regular,Consolas,'Liberation Mono',monospace;font-size:21px}
-    .prompt{fill:#7ee787}.text{fill:#e6edf3}.blue{fill:#79c0ff}.yellow{fill:#e3b341}.muted{fill:#8b949e}
-  </style>
-</defs>
-<rect width="1200" height="520" rx="20" fill="#0d1117"/>
-<g clip-path="url(#window)">
-  <rect x="18" y="18" width="1164" height="484" rx="15" fill="#161b22" stroke="#30363d" stroke-width="2"/>
-  <path d="M18 33 Q18 18 33 18 H1167 Q1182 18 1182 33 V76 H18Z" fill="#21262d"/>
-  <path d="M18 76H1182" stroke="#30363d"/>
-  <circle cx="48" cy="47" r="7" fill="#ff5f57"/><circle cx="73" cy="47" r="7" fill="#febc2e"/><circle cx="98" cy="47" r="7" fill="#28c840"/>
-  <text x="600" y="53" text-anchor="middle" font-family="SFMono-Regular,Consolas,monospace" font-size="16" fill="#c9d1d9">Anubhav — zsh — 80×24</text>
-</g>
-<g class="mono">
-  <text x="52" y="125"><tspan class="prompt">anubhav@MacBook-Pro ~ % </tspan><tspan class="text">whoami</tspan><set attributeName="opacity" to="1" begin="0.4s" fill="freeze"/><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.15s" fill="freeze"/></text>
-  <text x="52" y="163" class="text" opacity="0">Anubhav Dwivedi<set attributeName="opacity" to="1" begin="1.1s" fill="freeze"/></text>
-  <text x="52" y="211"><tspan class="prompt">anubhav@MacBook-Pro ~ % </tspan><tspan class="text">role --list</tspan><set attributeName="opacity" to="1" begin="1.5s" fill="freeze"/></text>
-  <text x="52" y="249" class="blue" opacity="0">iOS Developer  ·  Full-Stack Engineer<set attributeName="opacity" to="1" begin="2.2s" fill="freeze"/></text>
-  <text x="52" y="285" class="blue" opacity="0">Open-Source Enthusiast<set attributeName="opacity" to="1" begin="2.5s" fill="freeze"/></text>
-  <text x="52" y="333"><tspan class="prompt">anubhav@MacBook-Pro ~ % </tspan><tspan class="text">cat about.txt</tspan><set attributeName="opacity" to="1" begin="3s" fill="freeze"/></text>
-  <text x="52" y="371" class="text" opacity="0">I build thoughtful iOS experiences and full-stack products,<set attributeName="opacity" to="1" begin="3.7s" fill="freeze"/></text>
-  <text x="52" y="407" class="text" opacity="0">with a strong interest in software architecture, developer</text>
-  <set attributeName="opacity" to="1" begin="4s" fill="freeze"/>
-  <text x="52" y="443" class="text" opacity="0">communities, and solving real-world problems through technology.</text>
-  <set attributeName="opacity" to="1" begin="4.3s" fill="freeze"/>
-  <text x="52" y="480" class="yellow" font-size="17" opacity="0">github.com/AnubhavGitHub07  ·  x.com/DwivediAnu59582  ·  prince1dwivedi00@gmail.com</text>
-  <set attributeName="opacity" to="1" begin="4.8s" fill="freeze"/>
-</g>
-<rect x="52" y="487" width="12" height="3" fill="#7ee787"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="416" viewBox="0 0 820 416" role="img" aria-label="Terminal: Anubhav Dwivedi, iOS Developer and Full-Stack Engineer" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2MjJjN2MzZi0zODQ5LTRhZGMtYTZmMi0xNjhjMTMxYmJkNGYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHobeUIXvdA7Xno0xw3KmPcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozYzc4NTViMS1mOTk1LTQ1ODgtYWM5MC02OGVlOWE3NDE5NGNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNof/t1WMJFNAH+yVqU3hKrkgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggbRSdRl/asYC3mQpC9gOInMOtJXzpDiX2gzuNfFK868ukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaNGL0vjcqSWDMsMdedwkqB8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCepCo2yHao+J0R5U166NFD8nOQmed88BFDbvnHHrdCRGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjvZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjYyMmM3YzNmLTM4NDktNGFkYy1hNmYyLTE2OGMxMzFiYmQ0Zi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjFhMGQ4Nzk0LTVkMzctNDU1Ny1hMTk5LTRjOTU4ZWRiZDM3NnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBtFJ1GX9qxgLeZCkL2A4icw60lfOkOJfaDO418Urzry6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgguzew4DST/O4zMEA3uRHKhQlPr90cxbj6fOE1CySJUoaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgghQBxxdr+gok8/QzU1ixF9spuAZ4D5dh4GcjrScd2xEB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHHS0vAsEmtN0GNIWS3keuaYxTpzAKJizVE66MDj3fCaSLg3s4B4i98+7FeuJeggcOmtlKeCaatgKFNOl8plThM=</c2pa:manifest></metadata>
+<style>
+text{font-family:'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:15px;white-space:pre}
+.p{fill:#7EE787;font-weight:700} .d{fill:#79C0FF} .c{fill:#E6EDF3}
+.o1{fill:#FFA657;font-weight:600} .o2{fill:#9DA7B3}
+.cur{fill:#7EE787;opacity:0;animation:blink 1.1s steps(1) infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+@keyframes show{from{opacity:0}to{opacity:1}}
+@keyframes t0{from{width:0}to{width:58px}}
+@keyframes t1{from{width:0}to{width:141px}}
+@keyframes t3{from{width:0}to{width:112px}}
+@keyframes t4{from{width:0}to{width:546px}}
+@keyframes t6{from{width:0}to{width:121px}}
+@keyframes t7{from{width:0}to{width:537px}}
+@keyframes t8{from{width:0}to{width:528px}}
+@keyframes t9{from{width:0}to{width:582px}}
+</style>
+<defs><filter id="sh" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity=".45"/></filter></defs>
+<rect x="10" y="8" width="1200" height="520" rx="12" fill="#0D1117" stroke="#30363D" filter="url(#sh)"/>
+<path d="M10 20a12 12 0 0 1 12-12h776a12 12 0 0 1 12 12v22H10z" fill="#1F242C"/>
+<line x1="10" y1="42" x2="810" y2="42" stroke="#30363D"/>
+<circle cx="34" cy="25" r="6.5" fill="#FF5F56"/><circle cx="56" cy="25" r="6.5" fill="#FFBD2E"/><circle cx="78" cy="25" r="6.5" fill="#27C93F"/>
+<text x="410.0" y="30" text-anchor="middle" style="font-size:13px;fill:#8B949E">anubhav — zsh — 80×24</text>
+<text x="28" y="84" class="p" style="animation:show 0s 0.60s both">➜</text><text x="46.0" y="84" class="d" style="animation:show 0s 0.60s both">~</text>
+<clipPath id="c0"><rect x="64.0" y="68" height="24" width="0" style="animation:t0 0.42s steps(6) 0.85s forwards"/></clipPath>
+<text x="64.0" y="84" class="c" clip-path="url(#c0)">whoami</text>
+<clipPath id="c1"><rect x="28" y="94" height="24" width="0" style="animation:t1 0.30s steps(15) 1.77s forwards"/></clipPath>
+<text x="28" y="110" class="o1" clip-path="url(#c1)">Anubhav Dwivedi</text>
+<text x="28" y="162" class="p" style="animation:show 0s 2.67s both">➜</text><text x="46.0" y="162" class="d" style="animation:show 0s 2.67s both">~</text>
+<clipPath id="c3"><rect x="64.0" y="146" height="24" width="0" style="animation:t3 0.84s steps(12) 2.92s forwards"/></clipPath>
+<text x="64.0" y="162" class="c" clip-path="url(#c3)">cat role.txt</text>
+<clipPath id="c4"><rect x="28" y="172" height="24" width="0" style="animation:t4 1.00s steps(60) 4.26s forwards"/></clipPath>
+<text x="28" y="188" class="o1" clip-path="url(#c4)">iOS Developer · Full-Stack Engineer · Open-Source Enthusiast</text>
+<text x="28" y="240" class="p" style="animation:show 0s 5.86s both">➜</text><text x="46.0" y="240" class="d" style="animation:show 0s 5.86s both">~</text>
+<clipPath id="c6"><rect x="64.0" y="224" height="24" width="0" style="animation:t6 0.91s steps(13) 6.11s forwards"/></clipPath>
+<text x="64.0" y="240" class="c" clip-path="url(#c6)">cat about.txt</text>
+<clipPath id="c7"><rect x="28" y="250" height="24" width="0" style="animation:t7 1.00s steps(59) 7.52s forwards"/></clipPath>
+<text x="28" y="266" class="o2" clip-path="url(#c7)">I build thoughtful iOS experiences and full-stack products,</text>
+<clipPath id="c8"><rect x="28" y="276" height="24" width="0" style="animation:t8 1.00s steps(58) 9.12s forwards"/></clipPath>
+<text x="28" y="292" class="o2" clip-path="url(#c8)">with a strong interest in software architecture, developer</text>
+<clipPath id="c9"><rect x="28" y="302" height="24" width="0" style="animation:t9 1.00s steps(64) 10.72s forwards"/></clipPath>
+<text x="28" y="318" class="o2" clip-path="url(#c9)">communities, and solving real-world problems through technology.</text>
+<text x="28" y="370" class="p" style="animation:show 0s 12.32s both">➜</text><text x="46.0" y="370" class="d" style="animation:show 0s 12.32s both">~</text>
+<rect class="cur" x="64.0" y="356" width="9" height="18" style="animation-delay:12.32s"/>
 </svg>
