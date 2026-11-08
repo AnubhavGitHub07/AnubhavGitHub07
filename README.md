@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anubhav+Dwivedi+%F0%9F%91%8B; iOS+Developer;Full-Stack+Engineer;Open-Source+Enthusiast" alt="Typing introduction: Hi, I'm Anubhav Dwivedi — iOS Developer, Full-Stack Engineer, Open-Source Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anubhav+Dwivedi+%F0%9F%91%8B;iOS+Developer;Full-Stack+Engineer;Open-Source+Enthusiast" alt="Typing introduction: Hi, I'm Anubhav Dwivedi — iOS Developer, Full-Stack Engineer, Open-Source Enthusiast" />
 
 <p>
   <code>~/anubhav</code> <code>main</code> <code>● online</code>
