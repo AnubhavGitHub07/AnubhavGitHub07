@@ -55,8 +55,6 @@ An iOS application designed to support women experiencing abuse through discreet
 - Legal guidance powered by retrieval-augmented generation (RAG).
 - Supporting services use technologies including **Python, FastAPI, MongoDB Atlas, and Google Gemini**.
 
-[**Explore SOLACE on GitHub →**](https://github.com/AnubhavGitHub07/SOLACE)
-
 ### 3. Dravya — Ayurvedic Supply-Chain Traceability
 
 A blockchain-oriented platform exploring authenticity, transparency, and traceability in the Ayurvedic herb supply chain.
