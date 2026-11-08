@@ -12,16 +12,6 @@
 
 ---
 
-## About Me
-
-- 📱 Focused on **native iOS development** with Swift and SwiftUI.
-- 🌐 Building full-stack applications with **TypeScript, React, Next.js, Node.js, and databases**.
-- 🧩 Interested in **system design, clean architecture, APIs, and reliable software**.
-- 🌱 Exploring open-source communities and preparing to contribute to **Google Summer of Code (GSoC)**.
-- 🤝 Open to meaningful open-source collaboration, code reviews, and learning from experienced developers.
-
-I value readable code, clear documentation, thoughtful engineering decisions, and building software that makes a difference.
-
 ## Featured Projects
 
 ### 1. TraverseVPN — iOS VPN Application
