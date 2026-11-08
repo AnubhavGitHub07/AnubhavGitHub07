@@ -6,37 +6,7 @@
 
 <div align="center">
 
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-<td bgcolor="#252526" align="left" style="padding: 10px 16px;">
-  <span>🔴 🟡 🟢</span>
-  &nbsp;&nbsp; <code>anubhav — zsh — 80×24</code>
-</td>
-</tr>
-<tr>
-<td bgcolor="#111318" align="left" style="padding: 22px 26px;">
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=16&duration=1800&pause=900&color=7EE787&background=11131800&vCenter=true&width=760&height=32&lines=anubhav%40MacBook-Pro+%7E+%25+whoami;anubhav%40MacBook-Pro+%7E+%25+cat+role.txt;anubhav%40MacBook-Pro+%7E+%25+cat+about.txt;anubhav%40MacBook-Pro+%7E+%25+open+socials" alt="Animated macOS zsh terminal prompt" />
-
-<pre align="left"><code><span>➜</span> whoami
-<span>Anubhav Dwivedi</span>
-
-<span>➜</span> cat role.txt
-<span>iOS Developer · Full-Stack Engineer · Open-Source Enthusiast</span>
-
-<span>➜</span> cat about.txt
-<span>I build thoughtful iOS experiences and full-stack products,</span>
-<span>with a strong interest in software architecture, developer</span>
-<span>communities, and solving real-world problems through technology.</span>
-
-<span>➜</span> ls socials/
-<span><a href="https://github.com/AnubhavGitHub07">github</a>   <a href="https://x.com/DwivediAnu59582">x</a>   <a href="mailto:prince1dwivedi00@gmail.com">email</a></span>
-
-<span>➜</span> <span>█</span></code></pre>
-
-</td>
-</tr>
-</table>
+<img src="./assets/terminal-header.svg" width="100%" alt="Animated macOS terminal showing Anubhav Dwivedi's introduction, developer roles, and contact details" />
 
 </div>
 
