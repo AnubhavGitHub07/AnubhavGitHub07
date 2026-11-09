@@ -86,12 +86,7 @@ My approach to open source:
 
 I'm always happy to connect with developers, open-source maintainers, and people building useful products.
 
-- **GitHub:** [@AnubhavGitHub07](https://github.com/AnubhavGitHub07)
-- **X:** [@DwivediAnu59582](https://x.com/DwivediAnu59582)
-- **Email:** [prince1dwivedi00@gmail.com](mailto:prince1dwivedi00@gmail.com)
 
-<div align="center">
+**Email:** [prince1dwivedi00@gmail.com](mailto:prince1dwivedi00@gmail.com)
 
-*Build with purpose. Learn in public. Contribute consistently.*
 
-</div>
