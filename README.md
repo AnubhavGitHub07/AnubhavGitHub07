@@ -59,6 +59,6 @@ An iOS application designed to support women experiencing abuse through discreet
 I'm always happy to connect with developers, open-source maintainers, and people building useful products.
 
 
-**Email:** [prince1dwivedi00@gmail.com](mailto:anubhavcodes7@gmail.com)
+**Email:** [anubhavcodes7@gmail.com](mailto:anubhavcodes7@gmail.com)
 
 
