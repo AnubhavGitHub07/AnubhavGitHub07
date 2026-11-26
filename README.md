@@ -36,16 +36,7 @@ An iOS application designed to support women experiencing abuse through discreet
 - Legal guidance powered by retrieval-augmented generation (RAG).
 - Supporting services use technologies including **Python, FastAPI, MongoDB Atlas, and Google Gemini**.
 
-### 3. Dravya — Ayurvedic Supply-Chain Traceability
 
-A blockchain-oriented platform exploring authenticity, transparency, and traceability in the Ayurvedic herb supply chain.
-
-- Frontend: **Next.js, React, TypeScript, and Tailwind CSS**.
-- Backend: **Node.js, Express, and TypeScript**.
-- Data layer: **PostgreSQL and Prisma**.
-- API validation and application state with **Zod, Zustand, and React Query**.
-
-The repository is currently private. Blockchain architecture and implementation details will be documented as the project evolves.
 
 ---
 
@@ -60,25 +51,6 @@ The repository is currently private. Blockchain architecture and implementation 
 | **AI Integration** | Google Gemini, LLM APIs, RAG, MongoDB Vector Search |
 | **Tools & Practices** | Git, GitHub, Docker, Postman, CI/CD, debugging |
 
-## Open Source & GSoC
-
-I'm interested in contributing to open-source projects where I can learn from real codebases and help maintainers ship reliable software.
-
-My approach to open source:
-
-- Understand the project architecture and contribution guidelines before proposing changes.
-- Start with well-scoped issues, reproduce problems, and communicate clearly.
-- Write maintainable code with appropriate tests and documentation.
-- Be open to feedback and iterate through code review.
-
-**Interested in:** iOS development, developer tools, full-stack systems, and projects with meaningful community impact.
-
-## Currently Exploring
-
-- Advanced SwiftUI patterns and native iOS architecture.
-- System design and scalable backend development.
-- Open-source contribution workflows and collaborative engineering.
-- Data structures and algorithms in C++.
 
 ---
 
@@ -87,6 +59,6 @@ My approach to open source:
 I'm always happy to connect with developers, open-source maintainers, and people building useful products.
 
 
-**Email:** [prince1dwivedi00@gmail.com](mailto:prince1dwivedi00@gmail.com)
+**Email:** [prince1dwivedi00@gmail.com](mailto:anubhavcodes7@gmail.com)
 
 
